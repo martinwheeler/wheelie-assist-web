@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <div id="ppHeader">https://frosty-darwin-1893e5.netlify.com/ Privacy Policy</div>
+        <div id="ppHeader">Wheelie Assist Privacy Policy</div>
         <div id="ppBody">
           <div class="ppConsistencies">
             <div class="col-2">
@@ -29,14 +29,14 @@ class App extends Component {
             </div>
             <div class="col-2"></div>
           </div>
-          <div style="clear:both;height:10px;"></div>
+          <div style={{ clear: 'both', height: '10px' }}></div>
           <div class="ppConsistencies">
             <div class="col-2">
               <div class="col-12 quick-links2 gen-text-center">Google AdSense</div>
             </div>
             <div class="col-2">
               <div class="col-12 quick-links2 gen-text-center"> Fair Information Practices
-                    <div class="col-8 gen-text-left gen-xs-text-center" style="font-size:12px;position:relative;left:20px;">Fair information
+                    <div class="col-8 gen-text-left gen-xs-text-center" style={{ fontSize: '12px', position: 'relative', left: '20px' }}>Fair information
                         <br /> Practices</div>
               </div>
             </div>
@@ -52,7 +52,7 @@ class App extends Component {
               </div>
             </div>
           </div>
-          <div style="clear:both;height:10px;"></div>
+          <div style={{ clear:'both', height: '10px' }}></div>
           <div class="innerText">This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable
               Information' (PII) is being used online. PII, as described in US privacy law and information security, is information
               that can be used on its own or with other information to identify, contact, or locate a single person, or to
@@ -334,10 +334,10 @@ class App extends Component {
         <br />
           <br />
         </div>
-        <div class="innerText">https://frosty-darwin-1893e5.netlify.com/</div>
-        <div class="innerText">Carriage Street</div>Bowen Hills, QLD 4006
-    <div class="innerText">Australia</div>
-        <div class="innerText">hello@martinwheeler.com.au</div>
+        <div class="innerText">Wheelie Assist</div>
+        Bowen Hills, QLD 4006
+        <div class="innerText">Australia</div>
+        <div class="innerText">hello+wheelieassist@martinwheeler.com.au</div>
         <div class="innerText">
           <br />Last Edited on 2018-06-23</div>
       </div>
